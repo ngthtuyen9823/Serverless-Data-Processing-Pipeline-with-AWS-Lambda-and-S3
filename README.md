@@ -12,7 +12,7 @@
     3. nếu file ở định dạng image thì thực hiện resize ảnh
 
 ---
-
+#### Link video demo: https://youtu.be/Ld2rPlfVYqU?si=p95FS5SqjxcU4Bpn
 ### Các bước thực hiện
 
 - **Tạo 2 Amazon S3 Buckets: cloudproject, cloudproject-resized**
