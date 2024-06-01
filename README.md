@@ -3,11 +3,6 @@
 **Integrate AI text analysis to process and analyze text files, extracting named entities and sentiment.**
 **Use CloudWatch to monitor Lambda executions and optimize performance based on metrics.**
 
-### Nhóm sinh viên thực hiện:
-
-1. **21110370 - Huỳnh Thị Ngọc Ánh**
-2. **21110716 - Nguyễn Thị Thanh Tuyền**
-
 ### Tổng quan về luồng thực hiện
 
 1. upload file lên s3 (source bucket)
