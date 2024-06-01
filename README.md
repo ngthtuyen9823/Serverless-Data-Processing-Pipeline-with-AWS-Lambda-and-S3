@@ -1,6 +1,9 @@
 **Serverless Data Processing Pipeline with AWS Lambda and S3**
+
 **Create a serverless pipeline that triggers an AWS Lambda function for processing data (e.g., image resizing, text file sanitization) upon upload to an S3 bucket.**
+
 **Integrate AI text analysis to process and analyze text files, extracting named entities and sentiment.**
+
 **Use CloudWatch to monitor Lambda executions and optimize performance based on metrics.**
 
 ### Tổng quan về luồng thực hiện
